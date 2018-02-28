@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4062cb82-21ca-45a9-acd1-17013137c92a" name="MAMP Apache" url="http://localhost:8888/Master Empire Group/public_html">
+        <fileTransfer port="0" mountedRoot="/Applications/MAMP/htdocs" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
